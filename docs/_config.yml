@@ -5,9 +5,9 @@ baseurl: "/test-repo" # the subpath of your site, e.g. /blog
 #url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Chathuranga Withana
+username: Test Repo
 user_description: Chathuranga Withana at Test Repo
-user_title: Test Repo
+user_title: Chathuranga Withana
 email: chathuwithana@gmail.com
 twitter_username: chathuwithana
 github_username:  chathuwithana
