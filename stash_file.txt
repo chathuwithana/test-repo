@@ -1,0 +1,1 @@
+Test Stash file. practical scenario. which is move changes from branch to branch.
